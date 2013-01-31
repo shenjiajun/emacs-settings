@@ -1,11 +1,11 @@
 emacs-settings
 ==============
 
-My emacs settings open to public reference.
+My emacs settings open to public.
 
 The themes (zenburn https://github.com/bbatsov/zenburn-emacs and solarized https://github.com/bbatsov/solarized-emacs ) were downloaded from Internet and have their own copyrights. Please check it before you use 3rd party tools.
 
-All other files are free to download and use.
+All other non-3rd party code/files are free to download and use.
 
 
 Install
